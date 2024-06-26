@@ -2,7 +2,7 @@
 
 
 
-#                                                                                   SQL- COMMAND LINE TOOL
+"center" # SQL- COMMAND LINE TOOL "center"
 
 ## This CLI is built using JavaScript, JEST testing framework.
 ## If excited please look up for functionalities in src folded
