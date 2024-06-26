@@ -33,7 +33,7 @@ function writeCSV(filePath, data) {
     if (err) {
       console.error("Error writing CSV file:", err);
     } else {
-      // console.log("CSV file saved successfully!");
+      console.log("CSV file saved successfully!");
     }
   });
 }

@@ -177,10 +177,10 @@ function parseDELETEQuery(query) {
   const whereClauses =
     whereSplit.length > 1 ? parseWhereClause(whereSplit[1]) : [];
 
-  console.log(query);
+  // console.log(query);
   const deleteRegex = /^DELETE\sFROM\s(.+)/i;
   const deleteMatch = query.match(deleteRegex);
-  console.log(deleteMatch);
+  // console.log(deleteMatch);
   if (deleteMatch) {
     const [, table] = deleteMatch;
     return { type: "DELETE", table, whereClauses };

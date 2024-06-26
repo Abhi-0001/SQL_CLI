@@ -27,5 +27,5 @@ test("Execute DELETE FROM Query for courses.csv", async () => {
   expect(deletedCourse).toBeUndefined();
 
   // Cleanup: Delete courses.csv
-  fs.unlinkSync("courses.csv");
+  // fs.unlinkSync("/courses.csv");
 });
