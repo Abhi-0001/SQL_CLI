@@ -1,4 +1,8 @@
-# SQL- COMMAND LINE TOOL
+
+
+
+
+#                                                                                   SQL- COMMAND LINE TOOL
 
 ## This CLI is built using JavaScript, JEST testing framework.
 ## If excited please look up for functionalities in src folded
