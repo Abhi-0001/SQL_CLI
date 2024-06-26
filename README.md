@@ -2,7 +2,7 @@
 
 
 
-<h1 align='center'> SQL-CCOMMAND LINE TOOL </h1>
+<h1 align='center'> 🚀 SQL-CCOMMAND LINE TOOL </h1>
 
 ## This CLI is built using JavaScript, JEST testing framework.
 ## If excited please look up for functionalities in src folded
